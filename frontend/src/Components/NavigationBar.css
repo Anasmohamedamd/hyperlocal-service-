@@ -1,0 +1,8 @@
+.nav-links {
+  color: white !important;          /* Default color */
+  transition: color 0.3s ease;      /* Smooth hover animation */
+}
+
+.nav-links:hover {
+  color: #ffc107 !important;        /* Bootstrap warning yellow on hover */
+}
